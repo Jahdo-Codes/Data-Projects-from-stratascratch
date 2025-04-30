@@ -9,7 +9,7 @@ I'm committing to completing a project related to data science weekly, using pro
 
 | Week | Project / Topic | GitHub Link | Notes |
 |-----|------------------|-------------|-------|
-| 1   | Band Name Generator | []() | Practiced input/output, string manipulation |
+| 1   | 23andMe | []() | Practiced input/output, string manipulation |
 
 
 *️⃣ *(I’ll update this table weekly as I progress)*
